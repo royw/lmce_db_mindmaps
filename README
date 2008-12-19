@@ -1,0 +1,7 @@
+A script that will create mindmaps from a LinuxMCE database.
+
+This script could be generalized fairly easily.  LinuxMCE's databases use a naming convention to identify primary and foreign keys (PK_ and FK_ prefixes).  So to port, you will need to figure out how your database (or ORM) identifies the keys.
+
+Have fun,
+Roy
+
